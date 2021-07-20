@@ -1,5 +1,7 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks
 
+## Url: [https://pezemiwe.github.io/huddle-landing-page-with-alternating-feature-blocks-master/](https://pezemiwe.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
+
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋

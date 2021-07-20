@@ -31,6 +31,7 @@
 .buttona:hover {
     font-family: "Open Sans";
     font-weight: 0;
+    cursor: pointer;
 }
 .mid {
     display: flex;
@@ -66,6 +67,7 @@
 }
 .buttonb:hover {
     background-color: hsl(300, 69%, 71%);
+    cursor: pointer;
 }
 .body {
     display: flex;
@@ -128,6 +130,7 @@ margin: 50px 0px 0 130px
 }
 .hov:hover {
     font-weight: 700;
+    cursor: pointer;
 }
 .lok {
     margin-right: 30px;
@@ -150,6 +153,7 @@ margin: 50px 0px 0 130px
     border-radius: 45px;
     color: hsl(322, 100%, 66%);
     border: 1px solid hsl(322, 100%, 66%);;
+    cursor: pointer;
     
 }
 .fa-twitter {
@@ -165,6 +169,7 @@ margin: 50px 0px 0 130px
     border-radius: 45px;
     color: hsl(322, 100%, 66%);;
     border: 1px solid hsl(322, 100%, 66%);;
+    cursor: pointer;
 }
 .fa-instagram {
     color: hsl(0, 0%, 100%);
@@ -179,6 +184,7 @@ margin: 50px 0px 0 130px
     border-radius: 45px;
     color: hsl(300, 69%, 71%);
     border: 1px solid hsl(322, 100%, 66%);;
+    cursor: pointer;
 }
 .position {
     position: absolute;
@@ -215,6 +221,7 @@ margin: 50px 0px 0 130px
 }
 .free:hover {
     background-color: hsl(322, 95%, 76%);
+    cursor: pointer;
 }
 @media screen and (max-width: 375px) {
 .page1 {
